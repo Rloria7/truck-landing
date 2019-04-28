@@ -1,0 +1,42 @@
+*{
+margin: 0;
+padding: 0;
+}
+.header{
+height: 100vh;
+}
+.navbar-style{
+box-shadow: 0 5px 10px #efefef;
+text-transform: uppercase;  
+}
+.logo{
+height: 85px;
+padding: 2px 10px;
+}
+.menu-bar{
+background: darkgreen;
+}
+li a{
+color:#333;
+}
+.big-text{
+font-size: 50px;
+margin: 20px 0;
+color: darkgreen;
+}
+.img1{
+padding-top: 50px;
+}
+a.btn {
+margin: 20px 10px;
+width: 100px;
+padding: 10px;
+}
+.big1{
+margin-top: 50px;
+}
+footer p{
+text-align: center;
+font-size: 20px;
+margin-top: 5px;
+}
